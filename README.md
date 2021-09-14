@@ -1,4 +1,4 @@
-### The repository with the data and everything is *PRIVATE*, just send me an email at [axel@stoiclab.com](stoiclab.com) or open an issue. 😁🤞🏾
+##### The repository with the data and everything is **PRIVATE**, just send me an email at [axel@stoiclab.com](stoiclab.com) or open an issue. 😁🤞🏾
 # Osheng | Oshiwambo - English Translation
 # All contributers are welcome
 
