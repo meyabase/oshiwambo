@@ -1,25 +1,17 @@
-##### The repository with the data and everything is **PRIVATE**, just send me an email at [axel@stoiclab.com](stoiclab.com) or open an issue. 😁🤞🏾
-# Osheng | Oshiwambo - English Translation
-# All contributers are welcome
+This repository serves as a public interface to the Oshiwambo-English language resource we're currently working on. For several reasons, most of our repositories are private at the moment. You can always send me an email, axel[at]stoiclab[dot]com or open an issue for collaboration, etc. 😁🤞🏾
 
-This project aims to develop an Oshiwambo-English language dataset and translation model.
+# Osheng | Oshiwambo - English Digital Language Resource
+## All contributors are welcome
 
-## Dictionary book
-#### Data collection and cleaning
-  - This involves extracting text from open source Oshiwambo <-> English Translation dictionary, online blog entries, online newspaper entries etc.
-  - Then format the text into a .txt file, where for each row: "Onde mu adha megumbo." then a translated sentence in english is entered "I found him in the house.".
-  - Word, phrase and complete sentence (defined by full stop) qualify.
+This project aims to develop an Oshiwambo-English corpus for analysis and translational purposes. Our main focus is Oshindonga and Oshikwanyama as primary languages both mapped to English as a secondary language.
 
-## Bible
-#### Data collection and cleaning
+Our current data is sourced from:
 
-##### Scraping text from [bible.com](bible.com)
-- English https://my.bible.com/bible/1713/GEN.1.CSB
-- Oshindonga https://my.bible.com/bible/372/GEN.1.ONDB
-- Oshikwanyama https://my.bible.com/bible/469/GEN.1.okyb
+1. Dictionaries
+    - This involves extracting text from open-source Oshiwambo <-> English Translation dictionaries.
 
-#### Neural Machine Translation
-- This tensoflow tutorial [Neural machine translation with attention](https://www.tensorflow.org/text/tutorials/nmt_with_attention) helped out a lot 
-- Also [A Must-Read NLP Tutorial on Neural Machine Translation – The Technique Powering Google Translate](https://www.analyticsvidhya.com/blog/2019/01/neural-machine-translation-keras/), [Github](https://github.com/prateekjoshi565/machine_translation/blob/master/german_to_english.ipynb)
-- Read this paper [Effective Approaches to Attention-based Neural Machine Translation, 2015](https://arxiv.org/pdf/1508.04025v5.pdf)
-- [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf) Paper with a great tutorial/explanation [here](https://jalammar.github.io/illustrated-transformer/)
+1. Translated Bibles
+    - Data collection and cleaning
+
+1. Online articles
+    - This includes online blogs, online newspaper entries and other online resources by numerous organizations. In this category, some resources have bi-lingual textual data, while others only have one language, either Oshindonga or Oshikwanyama.
