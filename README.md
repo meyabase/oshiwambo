@@ -1,4 +1,4 @@
-This repository serves as a public interface to the Oshiwambo-English language resource we're currently working on. For several reasons, most of our repositories are private at the moment. You can always send me an email, axel@stoiclab.com or open an issue for collaboration, etc. 😁🤞🏾
+This repository serves as a public interface to the Oshiwambo-English language resource we're currently working on. For several reasons, most of our repositories are private at the moment. You can always send me an email, axel@meyabase.com or open an issue for collaboration, etc. 😁🤞🏾
 
 # Osheng | Oshiwambo - English Digital Language Resource
 ## All contributors are welcome
